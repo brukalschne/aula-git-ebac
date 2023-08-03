@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Bruna Daniela Kalschne
+-Profissão: Analista de Qualidade
+-Cidade: Três de Maio
+-O que faz nas horas vaga: Gosto de olhar séries, viajar, e passar o tempo com a minha família.
+-Feedback sobre o curso Qualidade de Software: O curso está sendo bem produtivo, estou aprendendo muitas coisas novas e podendo praticar com os exercícios.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é muito boa, e tem uma ótima usabilidade.
 
 Obrigado!!!
 
